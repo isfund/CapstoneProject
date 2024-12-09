@@ -1,0 +1,39 @@
+Subject,Median_Debt,Degree_Type,Early_Career_Salary,Job_Growth
+Accounting,24086.0,Bachelors,51002,0.04
+Aerospace Engineering,25233.0,Bachelors,82053,0.06
+Biomedical Engineering,24372.0,Bachelors,70486,0.05
+Business Administration,24351.0,Bachelors,51489,0.1
+Chemical Engineering,23821.0,Bachelors,75427,0.08
+Civil Engineering,24615.0,Bachelors,66517,0.05
+Cognitive Science,18131.0,Bachelors,82000,-
+Computer Engineering,26468.0,Bachelors,80587,0.05
+Computer Science,22283.0,Bachelors,74000,0.32
+Economics,20700.0,Bachelors,77589,0.06
+Electrical Engineering,32821.0,Bachelors,76426,0.04
+Electronics Engineering,24616.0,Bachelors,78910,0.07
+Finance,22792.0,Bachelors,76000,0.2
+Industrial Engineering,24156.0,Bachelors,70229,0.12
+Information Technology,27955.0,Bachelors,67110,0.1
+Management Information Systems,24005.0,Bachelors,64000,0.15
+Marine Engineering,28586.0,Bachelors,70837,0.04
+Mathematics,21704.0,Bachelors,69435,0.152
+Mechanical Engineering,24504.0,Bachelors,72441,0.1
+Nursing,22592.0,Bachelors,65792,0.06
+Petroleum Engineering,26421.0,Bachelors,96742,0.02
+Pharmacy,25740.0,Bachelors,112842,0.02
+Physics,22763.0,Bachelors,86168,0.05
+Statistics,22005.0,Bachelors,79100,0.32
+Systems Engineering,23047.0,Bachelors,78239,0.05
+Business Administration,43251.0,Masters,136754,0.03
+Chemical Engineering,42343.0,Masters,93265,0.08
+Computer Engineering,42647.0,Masters,107614,0.23
+Economics,43053.0,Masters,111940,0.06
+Engineering,33235.0,Masters,120818,0.04
+Finance,43408.0,Masters,144563,0.03
+Industrial Engineering,35536.0,Masters,120900,0.02
+Information Sciences,40579.0,Masters,124113,0.15
+Marketing,35738.0,Masters,70297,0.06
+Mathematician,54725.0,Masters,111102,0.3
+Medicine,70484.0,Masters,199423,0.38
+Petroleum Engineering,28920.0,Masters,96592,0.02
+Software Engineering,42800.0,Masters,108896,0.25

@@ -1,0 +1,23 @@
+year,current_balance_lower,current_balance_same_or_higher,delinquent_90_plus,default,total
+2004,7.93,12.796,1.018,1.139,22.883
+2005,9.275,12.954,1.018,1.447,24.694
+2006,8.998,14.956,1.368,1.663,26.985
+2007,10.723,14.774,1.435,1.926,28.858
+2008,11.624,15.566,1.597,2.321,31.108
+2009,12.953,16.842,1.839,2.605,34.239
+2010,13.376,18.592,2.002,2.967,36.937
+2011,14.062,18.055,2.54,2.324,36.981
+2012,14.462,17.556,2.721,4.115,38.854
+2013,15.163,20.053,2.607,4.462,42.285
+2014,16.026,20.067,2.546,4.666,43.305
+2015,16.432,20.419,2.489,4.757,44.097
+2016,15.994,21.28,2.283,4.827,44.384
+2017,16.464,21.096,2.06,4.799,44.419
+2018,15.967,21.457,2.24,4.722,44.386
+2019,16.263,21.007,2.043,4.514,43.827
+2020,16.953,21.91,0.255,3.865,42.983
+2021,11.517,28.556,0.27,3.004,43.347
+2022,11.246,31.668,0.368,0.271,43.553
+0,0,0,0,0,0
+"Notes: Year-end balances compared to one year prior. 30-60 day delinquent balances are underreported as delinquent by lenders and so are classified as current. A delinquent borrower is a borrower with any delinquent but no defaulted loan. A defaulted borrower is a borrower with any defaulted loan.
+The Fresh Start program, which was implemented in late 2022, converted all defaulted federal borrowers to current status. This mechanically caused the decrease in defaulted borrowers seen in the 2022 data. ",0,0,0,0,0
