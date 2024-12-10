@@ -29,12 +29,12 @@ NumPy - Numerical Computations.
 Matplotlib - Data Visualization.  
 Seaborn - Statistical Data Visualization.
 
-Scikit-learn:
-RandomForestClassifier - Machine Learning Classification Models.
+Scikit-learn:  
+RandomForestClassifier - Machine Learning Classification Models.  
 LinearRegression - Linear Regression Modeling.
 
-Sklearn.metrics
-Classification_Report
-Confusion_Matrix
-Mean_Squared_Error
+Sklearn.metrics  
+Classification_Report  
+Confusion_Matrix  
+Mean_Squared_Error  
 Train-Test Split - Splitting Data Into Training and Testing Sets.
