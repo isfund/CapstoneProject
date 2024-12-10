@@ -24,9 +24,9 @@ These  ML predictions will help to create a comprehensive analysis report of stu
 
 Libraries Used:
 
-Pandas - Data Manipulation and Analysis.
-NumPy - Numerical Computations.
-Matplotlib - Data Visualization.
+Pandas - Data Manipulation and Analysis.  
+NumPy - Numerical Computations.  
+Matplotlib - Data Visualization.  
 Seaborn - Statistical Data Visualization.
 
 Scikit-learn:
