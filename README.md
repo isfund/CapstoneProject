@@ -20,3 +20,21 @@ Using all the datasets I want to analyze (mentioned above) my goal is to use Mac
        3. Low-Risk loans.
 
 These  ML predictions will help to create a comprehensive analysis report of student loans  which will help a private equity firm allocate capital efficiently and minimize investment risk as much as possible.
+
+
+Libraries Used:
+
+Pandas - Data Manipulation and Analysis.
+NumPy - Numerical Computations.
+Matplotlib - Data Visualization.
+Seaborn - Statistical Data Visualization.
+
+Scikit-learn:
+RandomForestClassifier - Machine Learning Classification Models.
+LinearRegression - Linear Regression Modeling.
+
+Sklearn.metrics
+Classification_Report
+Confusion_Matrix
+Mean_Squared_Error
+Train-Test Split - Splitting Data Into Training and Testing Sets.
