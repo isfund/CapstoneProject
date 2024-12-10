@@ -8,7 +8,7 @@ I will analyze:
 1.	Student Loan Amounts
 2.	Universities Attended
 3.	Degree Earned
-4.	Job Market Trends 
+4.	Jobs
 
 to provide a private equity firm with complete insight to help them invest in Student Loans wisely.
 
